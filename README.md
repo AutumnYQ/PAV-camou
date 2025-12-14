@@ -17,7 +17,7 @@
 @article{liu2025crafting,
   title={Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders},
   author={Liu, Yuqiu and Yan, Huanqian and Zhu, Xiaopei and Hu, Xiaolin and Tang, Liang and Su, Hang and Lv, Chen},
-  journal={arXiv preprint arXiv:2505.04662},
+  journal={IEEE/CAA Journal of Automatica Sinica},
   year={2025}
 }
 ```
